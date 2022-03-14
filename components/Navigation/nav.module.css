@@ -1,0 +1,20 @@
+.nav {
+    height: 50px;
+    padding: 10px;
+    background: #EFE9E7;
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.nav ul li a {
+    margin: 5px 15px;
+}

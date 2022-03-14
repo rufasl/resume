@@ -1,8 +1,8 @@
-const Blog = () => {
+const Vardas = () => {
     return (
         <div>
             <div>tekstas</div>
         </div>
     )
 }
-export const Blog;
+export default Vardas;
