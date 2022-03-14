@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "OptimusPrinceps";
+    src: url("/fonts/OptimusPrinceps.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "OptimusPrinceps";
+    src: url("/fonts/OptimusPrincepsSemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}

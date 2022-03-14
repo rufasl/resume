@@ -1,0 +1,35 @@
+@font-face {
+
+    font-family: "Encode Sans Semi Condensed";
+
+    src: url(../public/fonts/EncodeSansSemiCondensed-Bold.ttf);
+
+    font-style: normal;
+
+}
+
+@font-face {
+
+    font-family: "Encode Sans Semi Condensed";
+
+    src: url(../public/fonts/EncodeSansSemiCondensed-Regular.ttf);
+
+    font-style: normal;
+
+}
+
+@font-face {
+
+    font-family: "Encode Sans Semi Condensed";
+
+    src: url(../public/fonts/EncodeSansSemiCondensed-SemiBold.ttf);
+
+    font-style: normal;
+
+}
+
+body {
+
+    font-family: "Encode Sans Semi Condensed";
+
+}
