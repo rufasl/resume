@@ -6,7 +6,6 @@ export default function Home({ articles }) {
 
   return (
       <div>
-          <title>Welcome - Home</title>
           <Header />
 
 
@@ -15,14 +14,4 @@ export default function Home({ articles }) {
 
       )
 }
-export async function getStaticProps() {
-    const res = await fetch('https://jsonplaceholder.typicode.com/posts?_limit_=6')
-    const articles = await res.json()
-    return {
-        props: {
-            articles
-        }
-    }
-}
-
 
