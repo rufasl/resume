@@ -12,21 +12,25 @@ export default function About() {
                 <h3>Skill tree:</h3>
                 <ul>
                     <li>Team Lead for a development team of 10 and their monthly personal and team goals, personal and team results, invoices</li>
-                    <li>Project management experience developing Magento 2 webshops and WordPress websites - <strong>5 years at Creation Labs (UAB Elsoft)</strong></li>
-                    <li><i>Obviously</i> insane programming skills as you can see from this website - <i>website is built on next.js/node.js frameworks only by me</i> <strong>bachelors in Computer Science 2017, Panevėžys</strong></li>
+                    <li>Project manager developing Magento 2 webshops and WordPress websites - <strong>5 years at Creation Labs (UAB Elsoft)</strong></li>
+                    <li><i>Obviously</i> insane programming skills as you can see from this website - <i>website is built on next.js/node.js frameworks</i> <strong>bachelors in Computer Science 2017, Panevėžys</strong></li>
                     <li>Wit and English skills - <strong>in communication with partners abroad</strong></li>
-                    <li>I speak fluent in nerd, meaining communication with the people responsible for excecuting the tasks is easy</li>
-                    <li>Tend to think I can do almost everything in life, except for maybe making this page look appealing, <i>apparently</i></li>
+                    <li>I speak fluent in nerd, meaining communication with the programmers is easy</li>
+                    <li>Tend to think I can do everything in life, except for maybe making this page look appealing, <i>apparently</i></li>
                 </ul>
-                <h3>Projects/responsibilities</h3>
+                <h3>Experience</h3>
                 <ul>
-                    <li>Responsible for technical decisions and management for custom design project <a href='https://lemodus.lt'>Lemodus.lt</a> Magento 2 webshop with integrations with clients resources, custom functionality.</li>
-                    <li><a href='https://www.leatherlook.nl/'>Leatherlook project</a> custom desingn made on Magento 2, working with outsourced developers and assigning tasks, managing budget etc.</li>
-                    <li>Working with <a href='https://juist.nl/'>development partners abroad</a> and managing the team working on Magento 2 support/Wordpress/Testing, fixing and implementing procedures, assigning responsabilities to the team</li>
-                    <li>Team Lead responsability - growth and competence evaluations held quarterly, discussing growth and making decisions if the developer/manager/tester is ready to level up. Daily meetings, discussing technical decisions, support for colleagues etc.</li>
-                    <li>Writing project documentations and making project estimations as project manager, so that the terms and agreements make sense to client and developer</li>
-                    <li>Monitoring team performance hours spent/billed to client, adjusting workflow and making employment decisions</li>
-                    <li>Many other Magento 1 and 2, WordPress projects and support</li>
+                <li>Team Lead responsability - growth/competence evaluations held quarterly, discussing growth and making decisions if the developer/manager/tester is ready to level up. Daily meetings, discussing technical decisions, support for colleagues etc.</li>
+                <li>Writing project documentations and making project estimations as project manager, so that the terms and agreements make sense to client and developer</li>
+                <li>Monitoring team performance hours spent/billed to client, adjusting workflow and making employment decisions</li>
+                <li>Working with <a href='https://juist.nl/'>development partners abroad</a> and managing the team working on Magento 2 support/Wordpress/Testing</li>
+                <li>Adjusting quality assurance procedures, programmers procedures and implementing change, fixing and implementing procedures, assigning responsabilities to the team</li>
+                </ul>
+                <h3>Projects</h3>
+                <ul>
+                <li><a href='https://lemodus.lt'>Lemodus.lt</a> Responsible for technical decisions and management for custom design project Magento 2 webshop with integrations with clients resources, custom functionality.</li>
+                <li><a href='https://www.leatherlook.nl/'>Leatherlook project</a> custom desingn made on Magento 2, working with outsourced developers and assigning tasks, managing budget etc.</li>
+                <li>Many other Magento 1 and 2, WordPress projects and support</li>
                 </ul>
                 <div>
                     <h3>Goals</h3>
