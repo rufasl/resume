@@ -4,7 +4,7 @@ import BtnStyles from "../Button/button.module.css";
 export default function Header() {
     return (
         <div className={headerStyles.fontName}>
-            <title>sss</title>
+          <title>Welcome - Home</title>
             <meta name='keywords' content='web development, programming, e-commerce'></meta>
             <div>
                 <div className={headerStyles.image}>
