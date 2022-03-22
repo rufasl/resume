@@ -4,7 +4,7 @@ const Contacts = () => {
     return (
         <div>
             <title>Contacts</title>
-            <h1>Let me know what you think</h1>
+            <h1>Contact me</h1>
             <div>
                 {/*start of the contacts form*/}
                 <form action="api/form" method="post" >

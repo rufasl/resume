@@ -6,7 +6,7 @@ export default function Home({ articles }) {
 
   return (
       <div>
-          <title>Welcome</title>
+          <title>Welcome - Home</title>
           <Header />
 
 

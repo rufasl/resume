@@ -11,7 +11,7 @@ export default function About() {
                 <p>I'm Rufas Legeckas, currently from Panevėžys city, Lithuania.</p>
                 <h3>Skill tree:</h3>
                 <ul>
-                    <li>Team Lead for a development team of 10 and their monthly personal and team goals, personal and team results, invoices</li>
+                    <li>Team Lead for a development team of 10 and the monthly personal and team goals and results, invoices</li>
                     <li>Project manager developing Magento 2 webshops and WordPress websites - <strong>5 years at Creation Labs (UAB Elsoft)</strong></li>
                     <li><i>Obviously</i> insane programming skills as you can see from this website - <i>website is built on next.js/node.js frameworks</i> <strong>bachelors in Computer Science 2017, Panevėžys</strong></li>
                     <li>Wit and English skills - <strong>in communication with partners abroad</strong></li>
