@@ -1,5 +1,6 @@
 import contactStyles from './Contacts.module.scss'
 import BtnStyles from '../Button/button.module.css'
+
 const Contacts = () => {
     return (
         <div>
