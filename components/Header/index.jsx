@@ -1,5 +1,7 @@
-import headerStyles from './Header.module.scss'
+import headerStyles from './Header.module.scss';
 import BtnStyles from "../Button/button.module.css";
+import Link from 'next/link'
+
 
 export default function Header() {
     return (
@@ -8,7 +10,9 @@ export default function Header() {
             <meta name='keywords' content='web development, programming, e-commerce'></meta>
             <div>
                 <div className={headerStyles.image}>
-                    <a href="/about"><img src='https://media-exp1.licdn.com/dms/image/C4D03AQGMxkjXHcUITA/profile-displayphoto-shrink_800_800/0/1630486542215?e=1652918400&v=beta&t=iAKhGvnKydInRUtVp3XBjQivI_NkQ-65aVfZGPUR-cw'/></a>
+                <Link href="/about">
+                    <a><img src='https://media-exp1.licdn.com/dms/image/C4D03AQGMxkjXHcUITA/profile-displayphoto-shrink_800_800/0/1630486542215?e=1652918400&v=beta&t=iAKhGvnKydInRUtVp3XBjQivI_NkQ-65aVfZGPUR-cw'/></a>
+                </Link>
                 </div>
                 <p className={headerStyles.heading}>Rufas Legeckas,</p>
                 <p className={headerStyles.heading2}>Project manager / Team Lead</p>

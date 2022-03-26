@@ -3,6 +3,7 @@ import '../styles/globals.css'
 import '../public/fonts/fonts.module.css'
 import styleCSS from '../components/Button/button.module.css'
 
+
 function MyApp({ Component, pageProps }) {
   return (
       <Layout>

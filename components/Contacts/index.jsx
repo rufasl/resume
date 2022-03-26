@@ -17,7 +17,6 @@ const Contacts = () => {
                         minLength="3"
                         maxLength="10"
                         placeholder="First name"
-                        placeholder="First name"
                     />
                     <br />
                     <input

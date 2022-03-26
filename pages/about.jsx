@@ -8,7 +8,7 @@ export default function About() {
                 <div className={aboutStyles.center}>
                     <h2>Hey, you clicked, I should get some analytics traffic.</h2>
                 </div>
-                <p>I'm Rufas Legeckas, currently from Panevėžys city, Lithuania.</p>
+                <p>I am Rufas Legeckas, currently from Panevėžys city, Lithuania.</p>
                 <h3>Skill tree:</h3>
                 <ul>
                     <li>Team Lead for a development team of 10 and the monthly personal and team goals and results, invoices</li>
@@ -23,13 +23,13 @@ export default function About() {
                 <li>Team Lead responsability - growth/competence evaluations held quarterly, discussing growth and making decisions if the developer/manager/tester is ready to level up. Daily meetings, discussing technical decisions, support for colleagues etc.</li>
                 <li>Writing project documentations and making project estimations as project manager, so that the terms and agreements make sense to client and developer</li>
                 <li>Monitoring team performance hours spent/billed to client, adjusting workflow and making employment decisions</li>
-                <li>Working with <a href='https://juist.nl/'>development partners abroad</a> and managing the team working on Magento 2 support/Wordpress/Testing</li>
+                <li>Working with <a href="https://juist.nl/">development partners abroad</a> and managing the team working on Magento 2 support/Wordpress/Testing</li>
                 <li>Adjusting quality assurance procedures, programmers procedures and implementing change, fixing and implementing procedures, assigning responsabilities to the team</li>
                 </ul>
                 <h3>Projects</h3>
                 <ul>
-                <li><a href='https://lemodus.lt'>Lemodus.lt</a> Responsible for technical decisions and management for custom design project Magento 2 webshop with integrations with clients resources, custom functionality.</li>
-                <li><a href='https://www.leatherlook.nl/'>Leatherlook project</a> custom desingn made on Magento 2, working with outsourced developers and assigning tasks, managing budget etc.</li>
+                <li><a href="https://lemodus.lt">Lemodus.lt</a> Responsible for technical decisions and management for custom design project Magento 2 webshop with integrations with clients resources, custom functionality.</li>
+                <li><a href="https://www.leatherlook.nl/">Leatherlook project</a> custom desingn made on Magento 2, working with outsourced developers and assigning tasks, managing budget etc.</li>
                 <li>Many other Magento 1 and 2, WordPress projects and support</li>
                 </ul>
                 <div>
@@ -39,7 +39,7 @@ export default function About() {
                         <li className={aboutStyles.level2}>Actually attend the gym</li>
                         <li>Learn more headless programming and Next.js/Node.js by developing this website</li>
                         <li className={aboutStyles.level2}>Develop a blog page and write posts</li>
-                        <li className={aboutStyles.level2}>Learn more about anaytics while monitoring the blog's results</li>
+                        <li className={aboutStyles.level2}>Learn more about anaytics while monitoring the blog results</li>
                         <li>Find a workplace I can vibe with and learn more geeky stuff</li>
                     </ul>
                 </div>
