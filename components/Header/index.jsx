@@ -2,7 +2,6 @@ import headerStyles from './Header.module.scss';
 import BtnStyles from "../Button/button.module.css";
 import Link from 'next/link'
 
-
 export default function Header() {
     return (
         <div className={headerStyles.fontName}>
