@@ -26,7 +26,7 @@ export default function About() {
                 <li>Working with <a href="https://juist.nl/">development partners abroad</a> and managing the team working on Magento 2 support/Wordpress/Testing</li>
                 <li>Adjusting quality assurance procedures, programmers procedures and implementing change, fixing and implementing procedures, assigning responsabilities to the team</li>
                 </ul>
-                <h3>Projects</h3>
+                <h3>Projects and courses</h3>
                 <ul>
                 <li><a href="https://lemodus.lt">Lemodus.lt</a> Responsible for technical decisions and management for custom design project Magento 2 webshop with integrations with clients resources, custom functionality.</li>
                 <li><a href="https://www.leatherlook.nl/">Leatherlook project</a> custom desingn made on Magento 2, working with outsourced developers and assigning tasks, managing budget etc.</li>
