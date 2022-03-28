@@ -11,11 +11,11 @@ export default function About() {
                 <p>I am Rufas Legeckas, currently from Panevėžys city, Lithuania.</p>
                 <h3>Skill tree:</h3>
                 <ul>
-                    <li>Team Lead for a development team of 10 and the monthly personal and team goals and results, invoices</li>
-                    <li>Project manager developing Magento 2 webshops and WordPress websites - <strong>5 years at Creation Labs (UAB Elsoft)</strong></li>
+                    <li>Team Lead for a development team of 10, responsible for the monthly personal and team goals and results, invoices</li>
+                    <li>Project manager responsible for developing Magento 2 webshops and WordPress websites - <strong>5 years at Creation Labs (UAB Elsoft)</strong></li>
                     <li><i>Obviously</i> insane programming skills as you can see from this website - <i>website is built on <strong>Next.js/Node.js</strong> frameworks</i> <strong>bachelors in Computer Science 2017, Panevėžys</strong></li>
                     <li>Wit and English skills - <strong>in communication with partners abroad</strong></li>
-                    <li>I speak fluent in nerd, meaining communication with the programmers is easy</li>
+                    <li>I speak fluent in nerd, meaning communication with the programmers is easy</li>
                     <li>Tend to think I can do everything in life, except for maybe making this page look appealing, <i>apparently</i></li>
                 </ul>
                 <h3>Experience</h3>
