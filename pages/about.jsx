@@ -28,8 +28,8 @@ export default function About() {
                 </ul>
                 <h3>Projects and courses</h3>
                 <ul>
-                <li><a href="https://lemodus.lt">Lemodus.lt</a> 20221-2022 Responsible for technical decisions, management, project documentatation and estimation for custom design project Magento 2 webshop with integrations with clients resources, custom functionality.</li>
-                <li>Techological solution specialist, analytic for projects what route should we take (What technology to use to develop a product for frontend, backend, modules etc.) team lead and project manager for many projects that my colleagues work on, also for abroad partners</li>
+                <li><a href="https://lemodus.lt">Lemodus.lt</a> 2021-2022 responsible for technical decisions, management, project documentatation and estimation for custom design project Magento 2 webshop with integrations with clients resources, custom functionality.</li>
+                <li>Techological solution specialist, analytic for projects what route should we take (what technology to use to develop a product for frontend, backend, modules etc.) team lead and project manager for many projects that my colleagues work on, also for abroad partners</li>
                 <li>Many other Magento 1 and 2, WordPress projects and support in the 5 years</li>
                 <li>Code academy week long courses for project management 2020</li>
                 </ul>
