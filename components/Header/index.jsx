@@ -10,7 +10,7 @@ export default function Header() {
             <div>
                 <div className={headerStyles.image}>
                 <Link href="/about">
-                    <a><img src='https://media-exp1.licdn.com/dms/image/C4D03AQGMxkjXHcUITA/profile-displayphoto-shrink_800_800/0/1630486542215?e=1652918400&v=beta&t=iAKhGvnKydInRUtVp3XBjQivI_NkQ-65aVfZGPUR-cw'/></a>
+                    <a><img src='https://media-exp1.licdn.com/dms/image/C4D03AQGMxkjXHcUITA/profile-displayphoto-shrink_800_800/0/1630486542215?e=1652918400&v=beta&t=iAKhGvnKydInRUtVp3XBjQivI_NkQ-65aVfZGPUR-cw' className={headerStyles.img}/></a>
                 </Link>
                 </div>
                 <p className={headerStyles.heading}>Rufas Legeckas,</p>
