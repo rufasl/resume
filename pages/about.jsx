@@ -9,6 +9,12 @@ export default function About() {
                     <h2>Hey, you clicked, I should get some analytics traffic.</h2>
                 </div>
                 <p>I am Rufas Legeckas, currently from Panevėžys city, Lithuania.</p>
+                <h3>Looking for:</h3>
+                <ul>
+                    <li>Engineering manager or other sort of pisition that unites people and technology</li>
+                    <li>Programming positions - React/Next.js</li>
+                    <li>Project management positions that involve me in technological decisions</li>
+                </ul>
                 <h3>Skill tree:</h3>
                 <ul>
                     <li>Team Lead for a development team of 10, responsible for the monthly personal and team goals and results, invoices</li>
