@@ -13,7 +13,7 @@ export default function About() {
                 <ul>
                     <li>Engineering manager or other sort of pisition that unites people and technology</li>
                     <li>Programming positions - React/Next.js</li>
-                    <li>Project management positions that involve me in technological decisions</li>
+                    <li>Project/IT management positions that involve me in technological decisions</li>
                 </ul>
                 <h3>Skill tree:</h3>
                 <ul>
